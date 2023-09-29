@@ -31,6 +31,6 @@ npm start -- filepath ./examples/MW-NIFTY-BANK-05-Aug-2021.csv
 
 ## Contributors
 
-- Harini Thangavel <harini@qburst.com>
+- Harini Thangavel <harinithangavel04@gmail.com>
 
 ---
