@@ -1,0 +1,17 @@
+{
+  "name": "csv-html-converter",
+  "version": "1.0.0",
+  "description": "CSV to HTML converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harini Thangavel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "stream": "^0.0.2",
+    "winston": "^3.3.3"
+  }
+}
